@@ -3,7 +3,7 @@
 ## An Exercise part of RevoU Full Stack Data Analytics
 ![logo rev](https://github.com/rafiedrmwn/sql-cohort-analysis/assets/163059751/5b78183b-9a94-47b2-837a-1e86b03f7d52)
 
-Explanatory Data Analysis (EDA) alongside with hypothesis testing using [dataset](https://docs.google.com/spreadsheets/d/1bQr0TzSRjWtD6pwHhXcWmrfdfdhrdPOb4k1m87Pa0-I/edit?usp=sharing) from Google BigQuery. 
+Explanatory Data Analysis (EDA) alongside with hypothesis testing using [dataset](https://docs.google.com/spreadsheets/d/1bQr0TzSRjWtD6pwHhXcWmrfdfdhrdPOb4k1m87Pa0-I/edit?usp=sharing) from Google Sheets. 
 
 By: Muhammad Rafie Darmawan.
 
