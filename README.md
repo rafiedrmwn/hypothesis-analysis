@@ -1,2 +1,4 @@
-# hypothesis-analysis
-W4W5 RevoU Assignment Program.
+# Google Sheets/Excel Analytics with Hypothesis Testing.
+
+## An Exercise part of RevoU Full Stack Data Analytics
+![logo rev](https://github.com/rafiedrmwn/sql-cohort-analysis/assets/163059751/5b78183b-9a94-47b2-837a-1e86b03f7d52)
